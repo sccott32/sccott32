@@ -32,5 +32,5 @@ I started programming on **December, 2020**. With some experience, I started pro
   
 <h2>📊 Stats:</h2>
 
-| <img src="https://github-readme-stats.vercel.app/api?username=sccott32&show_icons=true&theme=radical" /> | [<img alt="Discord Status" src="https://lanyard.cnrad.dev/api/910543706489237544?idleMessage=I%20might%20be%20touching%20grass...">](https://api.lanyard.rest/v1/users/1097028459194228836) |
+| <img src="https://github-readme-stats.vercel.app/api?username=sccott32&show_icons=true&theme=radical" /> | <img alt="Discord Status" src="https://api.lanyard.rest/v1/users/1097028459194228836"> |
 |-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
