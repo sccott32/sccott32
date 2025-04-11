@@ -33,6 +33,6 @@ I started programming on **December, 2020**. With some experience, I started pro
 
 <a href="https://github.com/Mateo-tem"><img src="https://komarev.com/ghpvc/?username=Mateo-tem" alt="Profile Views"/></a>
 
-| [![Discord Presence](https://lanyard.cnrad.dev/api/1045534410084204567)](https://discord.com/users/1045534410084204567) | <img src="https://github-readme-stats.vercel.app/api?username=sccott32&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /> |
+| [![Discord Presence](https://lanyard.cnrad.dev/api/1045534410084204567)](https://discord.com/users/1097028459194228836) | <img src="https://github-readme-stats.vercel.app/api?username=sccott32&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /> |
 |--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 
